@@ -1,0 +1,13 @@
+first -get a grocery for home
+
+second -calculate how much present in home 
+
+third-calculating them by borcode scanner
+
+fourth-notification should come to myphone
+
+fivth- search best price in website with discount
+
+sixth-should show the amount and benifit to me
+
+seventh-when it is ok that item should be buy using debitcard,credit card etc.,
