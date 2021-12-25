@@ -1,6 +1,8 @@
 first -get a grocery for home
+1a- with weight and name of the pack should be stored
 
 second -calculate how much present in home 
+2a- with AI it should calculate how much is balance
 
 third-calculating them by borcode scanner
 
