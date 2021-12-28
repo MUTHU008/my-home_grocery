@@ -23,3 +23,5 @@ seventh-when it is ok that item should be buy using debitcard,credit card etc.,
 7a-after all the thing are correct proced to checkout with conformation by user
 
 adding the sample brach to see it is working or not
+
+adding second branch for testing
