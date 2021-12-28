@@ -1,15 +1,23 @@
 first -get a grocery for home
 1a- with weight and name of the pack should be stored
+1b-take the scrennshot of the material and brand
 
 second -calculate how much present in home 
 2a- with AI it should calculate how much is balance
+2b-each time taking the product should scaan by barcod
 
 third-calculating them by borcode scanner
+3a-number of barcode should contain the information
 
 fourth-notification should come to myphone
+4a-schedul the time of grocery buying 
+4d-can also see the quantity
 
 fivth- search best price in website with discount
+5a-compare the best brand with good priceing
 
-sixth-should show the amount and benifit to me
+sixth-should show the amount and benifit for the user
+6a-with pros and cons it should show the detail and simple presentation
 
 seventh-when it is ok that item should be buy using debitcard,credit card etc.,
+7a-after all the thing are correct proced to checkout with conformation by user
